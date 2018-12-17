@@ -1,2 +1,12 @@
 # BusinessAnalytics
 Business Analytics concepts
+
+Data Analytics uses---
+Insight 
+recomeendations
+
+intially cost of data storing was very high now its cheap.
+
+
+
+
